@@ -245,7 +245,7 @@ function reset() {
 
     <footer>
       <p><strong>Demo Only</strong> — Not for actual eligibility determinations</p>
-      <p>Part of the <a href="https://github.com/mn-bakeoff-demo">MN Bake-Off Demo</a></p>
+      <p>Part of the <a href="https://github.com/mes-bakeoff-demo">MN Bake-Off Demo</a></p>
     </footer>
   </div>
 </template>
