@@ -1,10 +1,12 @@
 # MSP Solution: Gamma
 
-> 🍰 **Vendor Gamma's Approach** — Guided Form Wizard
+**Vendor Gamma's Approach** — Guided Form Wizard
+
+**Backlog Item:** [#1 MSP Auto-Enrollment](https://github.com/mes-bakeoff-demo/mes-modernization/issues/1)
 
 ## Live Demo
 
-👉 **[Try it here](https://mes-bakeoff-demo.github.io/msp-solution-gamma)**
+[Try it here](https://mes-bakeoff-demo.github.io/msp-solution-gamma)
 
 ---
 
@@ -123,4 +125,4 @@ MIT — Use freely, adapt as needed.
 
 ---
 
-*Built for the Minnesota MES Bake-Off Demo*
+*Built for the [MES Bake-Off Demo](https://github.com/mes-bakeoff-demo) — see [Issue #1](https://github.com/mes-bakeoff-demo/mes-modernization/issues/1) for requirements*
